@@ -1,5 +1,5 @@
 # useful_functions
-Calculating promotion type, new vs returning users, share of orders for each channel, mapping segments, and most importantly CLV
+Calculating promotion type, new vs returning users, share of orders for each channel, mapping segments, and most importantly CLV.
 One of key metrics for analyzing customers behavior is CLV.
 CLV (Customer Lifetime Value) shows how much value (revenue) a customer can generate for business in his/her lifespan.
 The basic formula for calculating CLV is:
